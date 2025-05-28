@@ -21,10 +21,10 @@ This project is an excellent opportunity to:
 
 
 # 🎥 Recording
-![Alt text](Recordings\2025-05-27-11-44-22-Trim.gif)
+![Alt text](Recordings/2025-05-27-11-44-22-Trim.gif)
 
 # 📷 Screenshots
-![Alt text](Recordings\Screenshot-2025-05-27-114656.png)
-![Alt text](Recordings\Screenshot-2025-05-27-114715.png)
-![Alt text](Recordings\Screenshot-2025-05-27-114727.png)
-![Alt text](Recordings\Screenshot-2025-05-27-114956.png)
+![Alt text](Recordings/Screenshot-2025-05-27-114656.png)
+![Alt text](Recordings/Screenshot-2025-05-27-114715.png)
+![Alt text](Recordings/Screenshot-2025-05-27-114727.png)
+![Alt text](Recordings/Screenshot-2025-05-27-114956.png)
